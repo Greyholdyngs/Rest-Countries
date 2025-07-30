@@ -17,7 +17,7 @@ function CountryDetails() {
             <Header />
             <div className="md:flex sm:col col  items-center justify-between md:px-20 sm:px-10 px-5 md:py-15 py-20">
                 <div className="py-10 md:px-5">
-                    <div className="relative md:left-0 left-53">
+                    <div className="absolute md:left-25 left-49  top-35">
                         <button className="flex items-center w-40 text-left 
                                             gap-2 shadow-lg rounded-md pl-15 pr-4 py-2">
                             <img className="w-5" src={back} alt="Back" />
